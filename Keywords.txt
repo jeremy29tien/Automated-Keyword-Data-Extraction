@@ -1,0 +1,38 @@
+neur
+neurite
+neurogenesis
+glia
+oligodendrocyte
+stem cell
+pluripotent
+omnipotent
+nerve cell
+precursor
+*differentiation
+specification
+lineage
+fate
+commitment
+dendrite
+axon
+maturation
+outgrowth
+function
+migration
+guidance
+development
+stiffness
+pressure
+nanowire
+microenvironment
+physical cues
+topographical cues
+microgroove
+mechan
+surface acoustic wave
+sound wave
+acoustic tweezers
+tunable
+dynamic
+gradient
+pattern
